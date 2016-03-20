@@ -1,0 +1,33 @@
+{
+  "name": "metastoreui",
+  "version": "0.0.1",
+  "authors": [
+    "Mark Moloney <markmo@me.com>"
+  ],
+  "description": "Metamorphic Metastore UI",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "form",
+    "json",
+    "schema"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/markmo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fuelux": "~3.6.3",
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.3"
+  }
+}

@@ -1,0 +1,7 @@
+bower_components
+!node_modules
+node_modules/*
+!node_modules/metaform/
+node_modules/metaform/node_modules
+node_modules/metaform/bower_modules
+*.npmrc
